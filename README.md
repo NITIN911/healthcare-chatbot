@@ -53,3 +53,4 @@ To see these intents, go to the intent list for your agent:
     Click Intents in the left sidebar menu.
 
 The middle of the console shows the list of intents for the agent.
+# For More checkout the documentation (https://cloud.google.com/dialogflow/es/docs)
